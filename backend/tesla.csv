@@ -1,0 +1,6 @@
+﻿Model Name,Price (KRW),Car Type,Fuel,Efficiency (km/kWh),Distance (km),Government Subsidy (KRW)
+Model 3,51990000,준대형,전기(배터리),5.7,382,1830000
+Model S,115250000,준대형,전기(배터리),4.8,555,0
+Model Y,52990000,중형SUV,전기(배터리),5.1,356,2010000
+Model Y Junifer,73000000,중형SUV,전기(배터리),0.0,476,0
+Model X,128750000,대형SUV,전기(배터리),4.2,478,0
