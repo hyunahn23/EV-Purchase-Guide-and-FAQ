@@ -1,34 +1,6 @@
-# EV-Purchase-Guide-and-FAQ
-EV Purchase Guide FAQ: Model Performance, Subsidies &amp; Regional Charging Station Information
-
-# SKN011-3rd-1Team
-
----
-# 팀소개
-
-| 이현대 | 안종현 | 방성일 | 홍성욱 | 신진슬 |
-|--------|--------|--------|-------|--------|
-| ![이현대](./readme_img/01.png) | ![안종현](./readme_img/03.png) | ![방성일](./readme_img/04.png) | ![홍성욱욱](./readme_img/05.png) | ![신진슬](./readme_img/02.png) |
-
-<br>
-
----
 # ⚡ 전기차 구매 가이드 FAQ: 모델 성능, 보조금 & 지역별 중전소 정보
 
 * 📅개발기간: 2025.02.26 ~ 02.27
-
-<br>
-
-## 목차
-1. 프로젝트 개요
-    1) 프로젝트 필요성
-    2) 프로젝트 목표
-2. 프로젝트 내용
-    1) 사용 기술
-    2) ERD
-    3) WBS
-    4) 데이터 시각화 플랫폼
-3. 한 줄 회고
 
 <br>
 
@@ -94,21 +66,6 @@ EV Purchase Guide FAQ: Model Performance, Subsidies &amp; Regional Charging Stat
   <img src="./readme_img/ERD.png" height="600" width="800">
   </p>
 
-### 3) 🎫 WBS
-
-<center>
-
-| 작업명              | 시작일 | 종료일 | 담당자   | 산출물               |
-|:-------------------:|:------:|:------:|:--------:|:--------------------:|
-| 프로젝트 주제선정   | 02-25  | 02-25  | ALL      | 없음                 |
-| ERD작성            | 02-25  | 02-26  | ALL      | ERD모델              |
-| DB연동             | 02-25  | 02-06  | 이현대   | 웹 크롤링, 데이터수집 |
-| web crawling       | 02-25  | 02-26  | ALL      | 데이터수집           |
-| Streamlit UI 구현   | 02-25  | 02-26  | ALL      | Streamlit            |
-| 디버깅             | 02-26  | 02-26  | ALL      | 결과                 |
-
-</center>
-
 <br>
 
 ### 4) 🖼️ 데이터 시각화 플랫폼
@@ -154,24 +111,3 @@ EV Purchase Guide FAQ: Model Performance, Subsidies &amp; Regional Charging Stat
   <p align="center">
   <img src="./readme_img/front_4.png" height="440" width="800">
   </p>
-
-
-<br>
-
----
-
-## 3. 📜 한 줄 회고
-
-* 이현대: 코딩이 너무 재밌어요!
-
-* 안종현: 코딩이 너무 환상적이에요!
-
-* 방성일: 코딩할 때 방긋방긋 웃었어요!
-
-* 홍성욱: 함께 하며 많이 배웠습니다!
-
-* 신진슬: 코딩하면서 행복했어요!
-
-
-
-
