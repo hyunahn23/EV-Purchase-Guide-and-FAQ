@@ -32,7 +32,7 @@
 
  * 이에따라, 소비자들이 전기차 구매 시 가장 궁금해하는 정보를 직접적으로 비교할 수 있도록 대표적인 국내 전기차 모델들의 성능, 정부 보조금, 그리고 국내 충전 인프라 현황에 대한 종합적인 정보를 제공하고자 함.
 
-### 2) 🎯 프로젝트 목표
+### 🎯 프로젝트 목표
 
  💿 국내 전기차 모델 성능, 국내 충전 인프라 현황 데이터베이스 구축
    - 국내 전기차 모델의 성능 정보 및 국내 충전 인프라 현황을 웹 크롤링하여 데이터를 수집하고, 이를 바탕으로 통합 데이터베이스를 구축함.
@@ -52,7 +52,7 @@
 
 ## 2. 💻 프로젝트 내용
 
-### 1) 🛠️ 사용 기술
+### 🛠️ 사용 기술
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-E31337?style=for-the-badge&logo=Streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-003791?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -64,14 +64,14 @@
 
 <br>
 
-### 2) 🕸️ ERD
+### 🕸️ ERD
   <p align="center">
   <img src="./readme_img/ERD.png" height="600" width="800">
   </p>
 
 <br>
 
-### 3) 🖼️ 데이터 시각화 플랫폼
+### 🖼️ 데이터 시각화 플랫폼
 
  * 메인화면
 
